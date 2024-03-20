@@ -64,6 +64,5 @@ Este é um dos repositórios do projeto de alunos do Inteli em parceria com a Vi
 
 # 4. Na pasta /src
 
-(a) Há duas pastas, onde cada uma corresponde a um item de software do projeto: ide e compilador.
-
+(a) Há duas pastas, onde cada uma corresponde a um item de software do projeto: back-end e front-end.
 
