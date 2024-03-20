@@ -24,6 +24,7 @@ Este é um dos repositórios do projeto de alunos do Inteli em parceria com a Vi
 > Se você é um dos alunos que faz parte deste grupo, veja as [instruções para os alunos](./instrucoes_para_alunos/LEIAME_aluno.md).
 
 (c) Os campos projeto, grupo e integrantes estão preenchidos corretamente.
+
 (d) O campo descrição contém um resumo do problema e da solução desenvolvida.
 
 <td><a href= "https://www.inteli.edu.br/"><img src="img/projeto.png" alt="Projeto, Descrição e Integrantes" border="0" width="50%"></a>
