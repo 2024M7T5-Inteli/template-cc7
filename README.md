@@ -1,10 +1,10 @@
 # Check-list para Entrega do Projeto
 
-**Nome do Projeto:** Tapete sensorial para apoiar pessoas com leves desordens neurológicas e sem alteração/restrição sensorial em atividades do cotidiano
+**Nome do Projeto:** Desenvolvendo uma aplicação escalável para otimizar o tempo de acesso às bases de dados legadas.
 
 # Introdução
 
-Este é um dos repositórios do projeto de alunos do Inteli em parceria com a AACD no 2º semestre de 2023. Este projeto está sendo desenvolvido por alunos do Módulo 8 do curso de Ciência da Computação.
+Este é um dos repositórios do projeto de alunos do Inteli em parceria com a Vivo Telefônica no 1º semestre de 2024. Este projeto está sendo desenvolvido por alunos do Módulo 7 do curso de Ciência da Computação.
 
 # 1. No arquivo README.md
  (a) Os logos do parceiro e do Inteli estão no topo da página.
@@ -12,7 +12,7 @@ Este é um dos repositórios do projeto de alunos do Inteli em parceria com a AA
 <table>
 <tr>
 <td>
-<a href= "https://aacd.org.br/"><img src="https://aacd.org.br/wp-content/uploads/2019/10/logo-footer.jpg" alt="aacd.org.br" border="0" width="60%"></a>
+<a href= "https://www.vivo.com.br/"> <img src="img/vivo-logo.png" alt="vivo.com.br" border="0" width="20%"></a>
 </td>
 <td><a href= "https://www.inteli.edu.br/"><img src="img/inteli-logo.png" alt="Inteli - Instituto de Tecnologia e Liderança" border="0" width="50%"></a>
 </td>
@@ -64,4 +64,5 @@ Este é um dos repositórios do projeto de alunos do Inteli em parceria com a AA
 # 4. Na pasta /src
 
 (a) Há duas pastas, onde cada uma corresponde a um item de software do projeto: ide e compilador.
+
 
